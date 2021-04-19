@@ -5,6 +5,8 @@
 .notfound-404{
     font-size: 60px;
     font-family: "Titillium web", sans-serif;
+    color: yellow;
+    background-color: black;
 }
 p{
     font-size: 35px;
