@@ -9,3 +9,8 @@
 p{
     font-size: 35px;
 }
+a{
+    background-color: blue;
+    color: white;
+    font: 30px 600;
+}
