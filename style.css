@@ -11,3 +11,12 @@
 p{
     font-size: 35px;
 }
+a{
+    background-color: blue;
+    color: white;
+    font: 30px 600;
+}
+footer{
+    text-align: center;
+    font-size: 40px;
+}
